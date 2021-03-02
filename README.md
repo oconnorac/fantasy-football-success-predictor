@@ -38,7 +38,7 @@ Write a little bit about our limitations in conduting this project and areas whe
  
  ## Acknowledgements
  
-Thanks to kaggle user Chris Murphy for the use of his [https://www.kaggle.com/mur418/espn-2019-stats-and-2020-nfl-fantasy-projections](data)
+Thanks to kaggle user Chris Murphy for the use of his data [https://www.kaggle.com/mur418/espn-2019-stats-and-2020-nfl-fantasy-projections]
 
 ## References
 
